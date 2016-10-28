@@ -1,5 +1,12 @@
 # README
 
+----
+
+odin project https://www.railstutorial.org/book/beginning 
+
+
+----
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
